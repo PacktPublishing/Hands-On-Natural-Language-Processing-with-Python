@@ -60,7 +60,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Mastering Natural Language Processing with Python [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781783989041) [[Amazon]](https://www.amazon.com/dp/1783989041)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Rajesh Arumugam**
 Rajesh Arumugam is an ML developer at SAP, Singapore. Previously, he developed ML solutions for smart city development in areas such as passenger flow analysis in public transit systems and optimization of energy consumption in buildings when working with Centre for Social Innovation at Hitachi Asia, Singapore. He has published papers in conferences and has pending patents in storage and ML. He holds a PhD in computer engineering from Nanyang Technological University, Singapore.
 
@@ -68,7 +68,7 @@ Rajesh Arumugam is an ML developer at SAP, Singapore. Previously, he developed M
 Rajalingappaa Shanmugamani is a deep learning lead at SAP, Singapore. Previously, he worked and consulted at various start-ups for developing computer vision products. He has a masters from IIT Madras, where his thesis was based on applications of computer vision in manufacturing. He has published articles in peer-reviewed journals and conferences and applied for a few patents in ML. In his spare time, he teaches programming and machine learning to school students and engineers.
 
 
-## Other books by the authors
+## Other books by the author
 * [Deep Learning for Computer Vision](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-computer-vision?utm_source=github&utm_medium=repository&utm_campaign=9781788295628)
 * [TensorFlow Deep Learning Projects](TensorFlow%20Deep%20Learning%20Projects?utm_source=github&utm_medium=repository&utm_campaign=9781788398060)
 
