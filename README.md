@@ -62,10 +62,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Authors
 **Rajesh Arumugam**
-Rajesh Arumugam is an ML developer at SAP, Singapore. Previously, he developed ML solutions for smart city development in areas such as passenger flow analysis in public transit systems and optimization of energy consumption in buildings when working with Centre for Social Innovation at Hitachi Asia, Singapore. He has published papers in conferences and has pending patents in storage and ML. He holds a PhD in computer engineering from Nanyang Technological University, Singapore.
+is an ML developer at SAP, Singapore. Previously, he developed ML solutions for smart city development in areas such as passenger flow analysis in public transit systems and optimization of energy consumption in buildings when working with Centre for Social Innovation at Hitachi Asia, Singapore. He has published papers in conferences and has pending patents in storage and ML. He holds a PhD in computer engineering from Nanyang Technological University, Singapore.
 
 **Rajalingappaa Shanmugamani**
-Rajalingappaa Shanmugamani is a deep learning lead at SAP, Singapore. Previously, he worked and consulted at various start-ups for developing computer vision products. He has a masters from IIT Madras, where his thesis was based on applications of computer vision in manufacturing. He has published articles in peer-reviewed journals and conferences and applied for a few patents in ML. In his spare time, he teaches programming and machine learning to school students and engineers.
+is a deep learning lead at SAP, Singapore. Previously, he worked and consulted at various start-ups for developing computer vision products. He has a masters from IIT Madras, where his thesis was based on applications of computer vision in manufacturing. He has published articles in peer-reviewed journals and conferences and applied for a few patents in ML. In his spare time, he teaches programming and machine learning to school students and engineers.
 
 
 ## Other books by the author
